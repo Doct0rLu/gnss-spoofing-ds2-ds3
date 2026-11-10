@@ -1,0 +1,5 @@
+/spoof_receiver/data/
+/spoof_receiver/outputs/
+*.bin
+*.zip
+*.asv
